@@ -1,0 +1,110 @@
+[
+  {
+    "id": "catppuccin",
+    "name": "Catppuccin",
+    "description": "Catppuccin Mocha: soft pastels on a deep blue-purple base",
+    "light": false,
+    "folder": "catppuccin",
+    "size": 5968479,
+    "preview": "catppuccin/preview.png"
+  },
+  {
+    "id": "catppuccin-latte",
+    "name": "Catppuccin Latte",
+    "description": "Catppuccin Latte: bright pastels on a soft cream base",
+    "light": true,
+    "folder": "catppuccin-latte",
+    "size": 12849505,
+    "preview": "catppuccin-latte/preview.png"
+  },
+  {
+    "id": "daylight",
+    "name": "Daylight",
+    "description": "Pure white and charcoal with quiet, minimal artwork",
+    "light": true,
+    "folder": "daylight",
+    "size": 4748837,
+    "preview": "daylight/preview.png"
+  },
+  {
+    "id": "gruvbox",
+    "name": "Gruvbox",
+    "description": "Gruvbox: warm charcoal, earthy greens and muted amber",
+    "light": false,
+    "folder": "gruvbox",
+    "size": 17860417,
+    "preview": "gruvbox/preview.png"
+  },
+  {
+    "id": "jade",
+    "name": "Jade",
+    "description": "Deep forest green and warm cream with quiet night scenes",
+    "light": false,
+    "folder": "jade",
+    "size": 9896066,
+    "preview": "jade/preview.png"
+  },
+  {
+    "id": "kanagawa",
+    "name": "Kanagawa",
+    "description": "Kanagawa: ink-dark blues and muted gold with Japanese artwork",
+    "light": false,
+    "folder": "kanagawa",
+    "size": 15247578,
+    "preview": "kanagawa/preview.png"
+  },
+  {
+    "id": "moss",
+    "name": "Moss",
+    "description": "Charcoal, olive and copper with candlelit Norse figures",
+    "light": false,
+    "folder": "moss",
+    "size": 8308983,
+    "preview": "moss/preview.png"
+  },
+  {
+    "id": "nord",
+    "name": "Nord",
+    "description": "The popular Nord palette: cool arctic blues and soft snow",
+    "light": false,
+    "folder": "nord",
+    "size": 11508046,
+    "preview": "nord/preview.png"
+  },
+  {
+    "id": "one-dark-pro",
+    "name": "One Dark Pro",
+    "description": "One Dark Pro: cool charcoal with bright blue and violet accents",
+    "light": false,
+    "folder": "one-dark-pro",
+    "size": 4901123,
+    "preview": "one-dark-pro/preview.png"
+  },
+  {
+    "id": "rose-pine",
+    "name": "Rosé Pine",
+    "description": "Rosé Pine Dawn: warm cream, muted rose and soft teal",
+    "light": true,
+    "folder": "rose-pine",
+    "size": 7937867,
+    "preview": "rose-pine/preview.png"
+  },
+  {
+    "id": "stillwater",
+    "name": "Stillwater",
+    "description": "Near-black and ash grey with quiet, wintry artwork",
+    "light": false,
+    "folder": "stillwater",
+    "size": 7584672,
+    "preview": "stillwater/preview.png"
+  },
+  {
+    "id": "wisteria",
+    "name": "Wisteria",
+    "description": "Soft white and vivid blue with violet flowers and airy skies",
+    "light": true,
+    "folder": "wisteria",
+    "size": 8309420,
+    "preview": "wisteria/preview.png"
+  }
+]
