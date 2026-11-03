@@ -6,7 +6,18 @@
     "light": false,
     "folder": "catppuccin",
     "size": 5968479,
-    "preview": "catppuccin/preview.png"
+    "preview": "catppuccin/preview.png",
+    "palette": {
+      "background": "#1e1e2e",
+      "foreground": "#cdd6f4",
+      "accent": "#89b4fa",
+      "color1": "#f38ba8",
+      "color2": "#a6e3a1",
+      "color3": "#f9e2af",
+      "color4": "#89b4fa",
+      "color5": "#f5c2e7",
+      "color6": "#94e2d5"
+    }
   },
   {
     "id": "catppuccin-latte",
@@ -15,7 +26,18 @@
     "light": true,
     "folder": "catppuccin-latte",
     "size": 12849505,
-    "preview": "catppuccin-latte/preview.png"
+    "preview": "catppuccin-latte/preview.png",
+    "palette": {
+      "background": "#eff1f5",
+      "foreground": "#4c4f69",
+      "accent": "#1e66f5",
+      "color1": "#d20f39",
+      "color2": "#40a02b",
+      "color3": "#df8e1d",
+      "color4": "#1e66f5",
+      "color5": "#ea76cb",
+      "color6": "#179299"
+    }
   },
   {
     "id": "daylight",
@@ -24,7 +46,18 @@
     "light": true,
     "folder": "daylight",
     "size": 4748837,
-    "preview": "daylight/preview.png"
+    "preview": "daylight/preview.png",
+    "palette": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "accent": "#6e6e6e",
+      "color1": "#2a2a2a",
+      "color2": "#3a3a3a",
+      "color3": "#4a4a4a",
+      "color4": "#1a1a1a",
+      "color5": "#2e2e2e",
+      "color6": "#3e3e3e"
+    }
   },
   {
     "id": "gruvbox",
@@ -33,7 +66,18 @@
     "light": false,
     "folder": "gruvbox",
     "size": 17860417,
-    "preview": "gruvbox/preview.png"
+    "preview": "gruvbox/preview.png",
+    "palette": {
+      "background": "#282828",
+      "foreground": "#d4be98",
+      "accent": "#7daea3",
+      "color1": "#ea6962",
+      "color2": "#a9b665",
+      "color3": "#d8a657",
+      "color4": "#7daea3",
+      "color5": "#d3869b",
+      "color6": "#89b482"
+    }
   },
   {
     "id": "jade",
@@ -42,7 +86,18 @@
     "light": false,
     "folder": "jade",
     "size": 9896066,
-    "preview": "jade/preview.png"
+    "preview": "jade/preview.png",
+    "palette": {
+      "background": "#111c18",
+      "foreground": "#C1C497",
+      "accent": "#509475",
+      "color1": "#FF5345",
+      "color2": "#549e6a",
+      "color3": "#459451",
+      "color4": "#509475",
+      "color5": "#D2689C",
+      "color6": "#2DD5B7"
+    }
   },
   {
     "id": "kanagawa",
@@ -51,7 +106,18 @@
     "light": false,
     "folder": "kanagawa",
     "size": 15247578,
-    "preview": "kanagawa/preview.png"
+    "preview": "kanagawa/preview.png",
+    "palette": {
+      "background": "#1f1f28",
+      "foreground": "#dcd7ba",
+      "accent": "#7e9cd8",
+      "color1": "#c34043",
+      "color2": "#76946a",
+      "color3": "#c0a36e",
+      "color4": "#7e9cd8",
+      "color5": "#957fb8",
+      "color6": "#6a9589"
+    }
   },
   {
     "id": "moss",
@@ -60,7 +126,18 @@
     "light": false,
     "folder": "moss",
     "size": 8308983,
-    "preview": "moss/preview.png"
+    "preview": "moss/preview.png",
+    "palette": {
+      "background": "#222222",
+      "foreground": "#c2c2b0",
+      "accent": "#78824b",
+      "color1": "#685742",
+      "color2": "#5f875f",
+      "color3": "#b36d43",
+      "color4": "#78824b",
+      "color5": "#bb7744",
+      "color6": "#c9a554"
+    }
   },
   {
     "id": "nord",
@@ -69,7 +146,18 @@
     "light": false,
     "folder": "nord",
     "size": 11508046,
-    "preview": "nord/preview.png"
+    "preview": "nord/preview.png",
+    "palette": {
+      "background": "#2e3440",
+      "foreground": "#d8dee9",
+      "accent": "#81a1c1",
+      "color1": "#bf616a",
+      "color2": "#a3be8c",
+      "color3": "#ebcb8b",
+      "color4": "#81a1c1",
+      "color5": "#b48ead",
+      "color6": "#88c0d0"
+    }
   },
   {
     "id": "one-dark-pro",
@@ -78,7 +166,18 @@
     "light": false,
     "folder": "one-dark-pro",
     "size": 4901123,
-    "preview": "one-dark-pro/preview.png"
+    "preview": "one-dark-pro/preview.png",
+    "palette": {
+      "background": "#282c34",
+      "foreground": "#abb2bf",
+      "accent": "#61afef",
+      "color1": "#e06c75",
+      "color2": "#98c379",
+      "color3": "#e5c07b",
+      "color4": "#61afef",
+      "color5": "#c678dd",
+      "color6": "#56b6c2"
+    }
   },
   {
     "id": "rose-pine",
@@ -87,7 +186,18 @@
     "light": true,
     "folder": "rose-pine",
     "size": 7937867,
-    "preview": "rose-pine/preview.png"
+    "preview": "rose-pine/preview.png",
+    "palette": {
+      "background": "#faf4ed",
+      "foreground": "#575279",
+      "accent": "#56949f",
+      "color1": "#b4637a",
+      "color2": "#286983",
+      "color3": "#ea9d34",
+      "color4": "#56949f",
+      "color5": "#907aa9",
+      "color6": "#d7827e"
+    }
   },
   {
     "id": "stillwater",
@@ -96,7 +206,18 @@
     "light": false,
     "folder": "stillwater",
     "size": 7584672,
-    "preview": "stillwater/preview.png"
+    "preview": "stillwater/preview.png",
+    "palette": {
+      "background": "#101315",
+      "foreground": "#cacccc",
+      "accent": "#798186",
+      "color1": "#565d60",
+      "color2": "#9fa5a9",
+      "color3": "#d9dbdc",
+      "color4": "#798186",
+      "color5": "#aeaeae",
+      "color6": "#707070"
+    }
   },
   {
     "id": "wisteria",
@@ -105,6 +226,17 @@
     "light": true,
     "folder": "wisteria",
     "size": 8309420,
-    "preview": "wisteria/preview.png"
+    "preview": "wisteria/preview.png",
+    "palette": {
+      "background": "#fafafa",
+      "foreground": "#212121",
+      "accent": "#3264eb",
+      "color1": "#c900c4",
+      "color2": "#4a2fd0",
+      "color3": "#026fde",
+      "color4": "#3264eb",
+      "color5": "#8a4ad7",
+      "color6": "#0c67de"
+    }
   }
 ]
