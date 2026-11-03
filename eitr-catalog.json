@@ -11,13 +11,35 @@
       "background": "#1e1e2e",
       "foreground": "#cdd6f4",
       "accent": "#89b4fa",
+      "color0": "#45475a",
       "color1": "#f38ba8",
       "color2": "#a6e3a1",
       "color3": "#f9e2af",
       "color4": "#89b4fa",
       "color5": "#f5c2e7",
-      "color6": "#94e2d5"
-    }
+      "color6": "#94e2d5",
+      "color7": "#bac2de",
+      "color8": "#585b70",
+      "color9": "#f38ba8",
+      "color10": "#a6e3a1",
+      "color11": "#f9e2af",
+      "color12": "#89b4fa",
+      "color13": "#f5c2e7",
+      "color14": "#94e2d5",
+      "color15": "#a6adc8"
+    },
+    "wallpapers": [
+      {
+        "path": "catppuccin/backgrounds/01-spirit-station.jpg",
+        "thumbnail": "thumbnails/catppuccin/01-spirit-station.jpg",
+        "size": 1497997
+      },
+      {
+        "path": "catppuccin/backgrounds/02-lunar-conservatory.jpg",
+        "thumbnail": "thumbnails/catppuccin/02-lunar-conservatory.jpg",
+        "size": 1709432
+      }
+    ]
   },
   {
     "id": "catppuccin-latte",
@@ -31,13 +53,45 @@
       "background": "#eff1f5",
       "foreground": "#4c4f69",
       "accent": "#1e66f5",
+      "color0": "#bcc0cc",
       "color1": "#d20f39",
       "color2": "#40a02b",
       "color3": "#df8e1d",
       "color4": "#1e66f5",
       "color5": "#ea76cb",
-      "color6": "#179299"
-    }
+      "color6": "#179299",
+      "color7": "#5c5f77",
+      "color8": "#acb0be",
+      "color9": "#d20f39",
+      "color10": "#40a02b",
+      "color11": "#df8e1d",
+      "color12": "#1e66f5",
+      "color13": "#ea76cb",
+      "color14": "#179299",
+      "color15": "#6c6f85"
+    },
+    "wallpapers": [
+      {
+        "path": "catppuccin-latte/backgrounds/01-ribbon-hare.jpg",
+        "thumbnail": "thumbnails/catppuccin-latte/01-ribbon-hare.jpg",
+        "size": 1317740
+      },
+      {
+        "path": "catppuccin-latte/backgrounds/02-cloud-orchard.jpg",
+        "thumbnail": "thumbnails/catppuccin-latte/02-cloud-orchard.jpg",
+        "size": 1920637
+      },
+      {
+        "path": "catppuccin-latte/backgrounds/03-porcelain-coast.jpg",
+        "thumbnail": "thumbnails/catppuccin-latte/03-porcelain-coast.jpg",
+        "size": 2062949
+      },
+      {
+        "path": "catppuccin-latte/backgrounds/04-wandering-greenhouse.jpg",
+        "thumbnail": "thumbnails/catppuccin-latte/04-wandering-greenhouse.jpg",
+        "size": 2013347
+      }
+    ]
   },
   {
     "id": "daylight",
@@ -51,13 +105,40 @@
       "background": "#ffffff",
       "foreground": "#000000",
       "accent": "#6e6e6e",
+      "color0": "#c0c0c0",
       "color1": "#2a2a2a",
       "color2": "#3a3a3a",
       "color3": "#4a4a4a",
       "color4": "#1a1a1a",
       "color5": "#2e2e2e",
-      "color6": "#3e3e3e"
-    }
+      "color6": "#3e3e3e",
+      "color7": "#000000",
+      "color8": "#c0c0c0",
+      "color9": "#2a2a2a",
+      "color10": "#3a3a3a",
+      "color11": "#4a4a4a",
+      "color12": "#1a1a1a",
+      "color13": "#2e2e2e",
+      "color14": "#3e3e3e",
+      "color15": "#000000"
+    },
+    "wallpapers": [
+      {
+        "path": "daylight/backgrounds/01-salt-horizon.jpg",
+        "thumbnail": "thumbnails/daylight/01-salt-horizon.jpg",
+        "size": 1198762
+      },
+      {
+        "path": "daylight/backgrounds/02-paper-orbit.jpg",
+        "thumbnail": "thumbnails/daylight/02-paper-orbit.jpg",
+        "size": 681954
+      },
+      {
+        "path": "daylight/backgrounds/03-quiet-pleats.jpg",
+        "thumbnail": "thumbnails/daylight/03-quiet-pleats.jpg",
+        "size": 707263
+      }
+    ]
   },
   {
     "id": "gruvbox",
@@ -71,13 +152,50 @@
       "background": "#282828",
       "foreground": "#d4be98",
       "accent": "#7daea3",
+      "color0": "#3c3836",
       "color1": "#ea6962",
       "color2": "#a9b665",
       "color3": "#d8a657",
       "color4": "#7daea3",
       "color5": "#d3869b",
-      "color6": "#89b482"
-    }
+      "color6": "#89b482",
+      "color7": "#d4be98",
+      "color8": "#3c3836",
+      "color9": "#ea6962",
+      "color10": "#a9b665",
+      "color11": "#d8a657",
+      "color12": "#7daea3",
+      "color13": "#d3869b",
+      "color14": "#89b482",
+      "color15": "#d4be98"
+    },
+    "wallpapers": [
+      {
+        "path": "gruvbox/backgrounds/01-violin-and-pear.jpg",
+        "thumbnail": "thumbnails/gruvbox/01-violin-and-pear.jpg",
+        "size": 1822656
+      },
+      {
+        "path": "gruvbox/backgrounds/02-river-workshop.jpg",
+        "thumbnail": "thumbnails/gruvbox/02-river-workshop.jpg",
+        "size": 2559893
+      },
+      {
+        "path": "gruvbox/backgrounds/03-copper-hills.jpg",
+        "thumbnail": "thumbnails/gruvbox/03-copper-hills.jpg",
+        "size": 2124244
+      },
+      {
+        "path": "gruvbox/backgrounds/04-brass-and-petals.jpg",
+        "thumbnail": "thumbnails/gruvbox/04-brass-and-petals.jpg",
+        "size": 1910692
+      },
+      {
+        "path": "gruvbox/backgrounds/05-candle-and-ceramic.jpg",
+        "thumbnail": "thumbnails/gruvbox/05-candle-and-ceramic.jpg",
+        "size": 1889133
+      }
+    ]
   },
   {
     "id": "jade",
@@ -91,13 +209,45 @@
       "background": "#111c18",
       "foreground": "#C1C497",
       "accent": "#509475",
+      "color0": "#23372B",
       "color1": "#FF5345",
       "color2": "#549e6a",
       "color3": "#459451",
       "color4": "#509475",
       "color5": "#D2689C",
-      "color6": "#2DD5B7"
-    }
+      "color6": "#2DD5B7",
+      "color7": "#F6F5DD",
+      "color8": "#53685B",
+      "color9": "#db9f9c",
+      "color10": "#63b07a",
+      "color11": "#E5C736",
+      "color12": "#ACD4CF",
+      "color13": "#75bbb3",
+      "color14": "#8CD3CB",
+      "color15": "#9eebb3"
+    },
+    "wallpapers": [
+      {
+        "path": "jade/backgrounds/01-midnight-study.jpg",
+        "thumbnail": "thumbnails/jade/01-midnight-study.jpg",
+        "size": 1058292
+      },
+      {
+        "path": "jade/backgrounds/02-rain-garden.jpg",
+        "thumbnail": "thumbnails/jade/02-rain-garden.jpg",
+        "size": 2100795
+      },
+      {
+        "path": "jade/backgrounds/03-tea-and-static.jpg",
+        "thumbnail": "thumbnails/jade/03-tea-and-static.jpg",
+        "size": 1218406
+      },
+      {
+        "path": "jade/backgrounds/04-night-shift.jpg",
+        "thumbnail": "thumbnails/jade/04-night-shift.jpg",
+        "size": 1262969
+      }
+    ]
   },
   {
     "id": "kanagawa",
@@ -111,13 +261,45 @@
       "background": "#1f1f28",
       "foreground": "#dcd7ba",
       "accent": "#7e9cd8",
+      "color0": "#090618",
       "color1": "#c34043",
       "color2": "#76946a",
       "color3": "#c0a36e",
       "color4": "#7e9cd8",
       "color5": "#957fb8",
-      "color6": "#6a9589"
-    }
+      "color6": "#6a9589",
+      "color7": "#c8c093",
+      "color8": "#727169",
+      "color9": "#e82424",
+      "color10": "#98bb6c",
+      "color11": "#e6c384",
+      "color12": "#7fb4ca",
+      "color13": "#938aa9",
+      "color14": "#7aa89f",
+      "color15": "#dcd7ba"
+    },
+    "wallpapers": [
+      {
+        "path": "kanagawa/backgrounds/01-reed-estuary.jpg",
+        "thumbnail": "thumbnails/kanagawa/01-reed-estuary.jpg",
+        "size": 2283948
+      },
+      {
+        "path": "kanagawa/backgrounds/02-rain-pass.jpg",
+        "thumbnail": "thumbnails/kanagawa/02-rain-pass.jpg",
+        "size": 1846540
+      },
+      {
+        "path": "kanagawa/backgrounds/03-crane-and-ribbon.jpg",
+        "thumbnail": "thumbnails/kanagawa/03-crane-and-ribbon.jpg",
+        "size": 2192566
+      },
+      {
+        "path": "kanagawa/backgrounds/04-indigo-fan.jpg",
+        "thumbnail": "thumbnails/kanagawa/04-indigo-fan.jpg",
+        "size": 2333846
+      }
+    ]
   },
   {
     "id": "moss",
@@ -131,13 +313,40 @@
       "background": "#222222",
       "foreground": "#c2c2b0",
       "accent": "#78824b",
+      "color0": "#000000",
       "color1": "#685742",
       "color2": "#5f875f",
       "color3": "#b36d43",
       "color4": "#78824b",
       "color5": "#bb7744",
-      "color6": "#c9a554"
-    }
+      "color6": "#c9a554",
+      "color7": "#d7c483",
+      "color8": "#666666",
+      "color9": "#685742",
+      "color10": "#5f875f",
+      "color11": "#b36d43",
+      "color12": "#78824b",
+      "color13": "#bb7744",
+      "color14": "#c9a554",
+      "color15": "#d7c483"
+    },
+    "wallpapers": [
+      {
+        "path": "moss/backgrounds/01-smokehole-seeress.jpg",
+        "thumbnail": "thumbnails/moss/01-smokehole-seeress.jpg",
+        "size": 1470554
+      },
+      {
+        "path": "moss/backgrounds/02-silent-oath.jpg",
+        "thumbnail": "thumbnails/moss/02-silent-oath.jpg",
+        "size": 1629947
+      },
+      {
+        "path": "moss/backgrounds/03-candlelit-relics.jpg",
+        "thumbnail": "thumbnails/moss/03-candlelit-relics.jpg",
+        "size": 1615305
+      }
+    ]
   },
   {
     "id": "nord",
@@ -151,13 +360,45 @@
       "background": "#2e3440",
       "foreground": "#d8dee9",
       "accent": "#81a1c1",
+      "color0": "#3b4252",
       "color1": "#bf616a",
       "color2": "#a3be8c",
       "color3": "#ebcb8b",
       "color4": "#81a1c1",
       "color5": "#b48ead",
-      "color6": "#88c0d0"
-    }
+      "color6": "#88c0d0",
+      "color7": "#e5e9f0",
+      "color8": "#4c566a",
+      "color9": "#bf616a",
+      "color10": "#a3be8c",
+      "color11": "#ebcb8b",
+      "color12": "#81a1c1",
+      "color13": "#b48ead",
+      "color14": "#8fbcbb",
+      "color15": "#eceff4"
+    },
+    "wallpapers": [
+      {
+        "path": "nord/backgrounds/01-blue-hour-reader.jpg",
+        "thumbnail": "thumbnails/nord/01-blue-hour-reader.jpg",
+        "size": 1718015
+      },
+      {
+        "path": "nord/backgrounds/02-glacier-inlet.jpg",
+        "thumbnail": "thumbnails/nord/02-glacier-inlet.jpg",
+        "size": 1601239
+      },
+      {
+        "path": "nord/backgrounds/03-last-track.jpg",
+        "thumbnail": "thumbnails/nord/03-last-track.jpg",
+        "size": 1551544
+      },
+      {
+        "path": "nord/backgrounds/04-window-seat.jpg",
+        "thumbnail": "thumbnails/nord/04-window-seat.jpg",
+        "size": 1755148
+      }
+    ]
   },
   {
     "id": "one-dark-pro",
@@ -171,13 +412,35 @@
       "background": "#282c34",
       "foreground": "#abb2bf",
       "accent": "#61afef",
+      "color0": "#282c34",
       "color1": "#e06c75",
       "color2": "#98c379",
       "color3": "#e5c07b",
       "color4": "#61afef",
       "color5": "#c678dd",
-      "color6": "#56b6c2"
-    }
+      "color6": "#56b6c2",
+      "color7": "#abb2bf",
+      "color8": "#5c6370",
+      "color9": "#e06c75",
+      "color10": "#98c379",
+      "color11": "#e5c07b",
+      "color12": "#61afef",
+      "color13": "#c678dd",
+      "color14": "#56b6c2",
+      "color15": "#ffffff"
+    },
+    "wallpapers": [
+      {
+        "path": "one-dark-pro/backgrounds/01-neon-summit.jpg",
+        "thumbnail": "thumbnails/one-dark-pro/01-neon-summit.jpg",
+        "size": 1332017
+      },
+      {
+        "path": "one-dark-pro/backgrounds/02-moonlit-keep.jpg",
+        "thumbnail": "thumbnails/one-dark-pro/02-moonlit-keep.jpg",
+        "size": 1805217
+      }
+    ]
   },
   {
     "id": "rose-pine",
@@ -191,13 +454,40 @@
       "background": "#faf4ed",
       "foreground": "#575279",
       "accent": "#56949f",
+      "color0": "#f2e9e1",
       "color1": "#b4637a",
       "color2": "#286983",
       "color3": "#ea9d34",
       "color4": "#56949f",
       "color5": "#907aa9",
-      "color6": "#d7827e"
-    }
+      "color6": "#d7827e",
+      "color7": "#575279",
+      "color8": "#9893a5",
+      "color9": "#b4637a",
+      "color10": "#286983",
+      "color11": "#ea9d34",
+      "color12": "#56949f",
+      "color13": "#907aa9",
+      "color14": "#d7827e",
+      "color15": "#575279"
+    },
+    "wallpapers": [
+      {
+        "path": "rose-pine/backgrounds/01-heron-and-thread.jpg",
+        "thumbnail": "thumbnails/rose-pine/01-heron-and-thread.jpg",
+        "size": 794857
+      },
+      {
+        "path": "rose-pine/backgrounds/02-petal-terraces.jpg",
+        "thumbnail": "thumbnails/rose-pine/02-petal-terraces.jpg",
+        "size": 1491112
+      },
+      {
+        "path": "rose-pine/backgrounds/03-rose-courtyard.jpg",
+        "thumbnail": "thumbnails/rose-pine/03-rose-courtyard.jpg",
+        "size": 2025292
+      }
+    ]
   },
   {
     "id": "stillwater",
@@ -211,13 +501,45 @@
       "background": "#101315",
       "foreground": "#cacccc",
       "accent": "#798186",
+      "color0": "#101315",
       "color1": "#565d60",
       "color2": "#9fa5a9",
       "color3": "#d9dbdc",
       "color4": "#798186",
       "color5": "#aeaeae",
-      "color6": "#707070"
-    }
+      "color6": "#707070",
+      "color7": "#cacccc",
+      "color8": "#4b4e55",
+      "color9": "#de6145",
+      "color10": "#343d41",
+      "color11": "#c9c2b4",
+      "color12": "#5d6367",
+      "color13": "#9a9a9a",
+      "color14": "#707070",
+      "color15": "#a5aeb4"
+    },
+    "wallpapers": [
+      {
+        "path": "stillwater/backgrounds/01-ashen-stag.jpg",
+        "thumbnail": "thumbnails/stillwater/01-ashen-stag.jpg",
+        "size": 849708
+      },
+      {
+        "path": "stillwater/backgrounds/02-the-iron-key.jpg",
+        "thumbnail": "thumbnails/stillwater/02-the-iron-key.jpg",
+        "size": 905958
+      },
+      {
+        "path": "stillwater/backgrounds/03-summit-shelter.jpg",
+        "thumbnail": "thumbnails/stillwater/03-summit-shelter.jpg",
+        "size": 1984752
+      },
+      {
+        "path": "stillwater/backgrounds/04-silent-wings.jpg",
+        "thumbnail": "thumbnails/stillwater/04-silent-wings.jpg",
+        "size": 533515
+      }
+    ]
   },
   {
     "id": "wisteria",
@@ -231,12 +553,39 @@
       "background": "#fafafa",
       "foreground": "#212121",
       "accent": "#3264eb",
+      "color0": "#fafafa",
       "color1": "#c900c4",
       "color2": "#4a2fd0",
       "color3": "#026fde",
       "color4": "#3264eb",
       "color5": "#8a4ad7",
-      "color6": "#0c67de"
-    }
+      "color6": "#0c67de",
+      "color7": "#212121",
+      "color8": "#9e9e9e",
+      "color9": "#f930fb",
+      "color10": "#9f85e0",
+      "color11": "#358fff",
+      "color12": "#5482ff",
+      "color13": "#b363ff",
+      "color14": "#3986ff",
+      "color15": "#000000"
+    },
+    "wallpapers": [
+      {
+        "path": "wisteria/backgrounds/01-indigo-bellflowers.jpg",
+        "thumbnail": "thumbnails/wisteria/01-indigo-bellflowers.jpg",
+        "size": 481670
+      },
+      {
+        "path": "wisteria/backgrounds/02-cloud-bloom.jpg",
+        "thumbnail": "thumbnails/wisteria/02-cloud-bloom.jpg",
+        "size": 1727387
+      },
+      {
+        "path": "wisteria/backgrounds/03-violet-pavilion.jpg",
+        "thumbnail": "thumbnails/wisteria/03-violet-pavilion.jpg",
+        "size": 2381253
+      }
+    ]
   }
 ]
