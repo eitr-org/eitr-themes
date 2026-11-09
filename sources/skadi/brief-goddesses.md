@@ -1,0 +1,13 @@
+Use your image generation tool to create four NEW desktop wallpapers and save them in this folder (/home/erick/Development/personal/eitr-testing/ideas/light-goddesses) as freyja-a.png, freyja-b.png, skadi-a.png and skadi-b.png. Landscape 16:9, the highest resolution the tool supports. Do not write code. Afterwards report each file name and its actual pixel size.
+
+The attached style-dusk-fjord.png is the STYLE reference only (an owner-approved wallpaper from the same desktop). Match its art style closely: a clean flat vector / cel-shaded illustration with bold black ink outlines, flat colour planes with one or two shading steps, angular faceted rock and simple shapes, friendly and handcrafted like an animated-series background. Do not copy its scene or its sunset colours.
+
+These are for two LIGHT desktop themes, so each picture is bright, airy and mostly pale, with soft daylight, so dark text and windows read well over it. Keep the top strip and the centre fairly calm; put the figures and details lower and to the sides. Figures are small in the landscape, graceful and heroic, never sexualised. No text, logos, signatures or watermarks.
+
+Freyja (Norse goddess of love, beauty and spring; Fólkvangr is her meadow). Palette: warm cream background #FAF5F0, blush surfaces #F1E7DF and #E5D4CA, plum-brown ink #42343B, dusty rose accent #A45B72, honey gold #A47A37, sage green #537E61, soft blue #577C9D, mauve #96628D, teal #468487.
+1. freyja-a.png: Freyja rides her small golden chariot drawn by two big fluffy cats across Fólkvangr, a wide rolling meadow full of wildflowers, gentle hills and a few birch trees under a pale blush sky with soft clouds; petals drift in the breeze.
+2. freyja-b.png: A calm flower valley at morning with a winding stream; Freyja stands on a gentle rise in her falcon-feather cloak, the Brísingamen necklace glowing softly gold; a falcon glides above, apple trees in blossom, distant pale mountains.
+
+Skaði (Norse giantess of winter, mountains, skiing and the hunt). Palette: cool snow background #F5F8FA, ice surfaces #E8EFF3 and #D5E0E7, slate ink #303D49, steel blue accent #467B9B, frost teal #628F91 and #3E8191, pine green #4D806F, pale gold #97752F, lavender #856CA0, berry red #B64D60.
+3. skadi-a.png: Skaði skis down a bright snowy mountainside with her bow on her back, leaving a curving track; faceted snowy peaks, a few dark pines, a pale clear sky with a small winter sun.
+4. skadi-b.png: A still frozen mountain lake in soft winter light; Skaði stands on the shore with two white wolves at her side, snow-laden pines, ice reflections, distant peaks under a pale lavender-blue sky with light snowfall.

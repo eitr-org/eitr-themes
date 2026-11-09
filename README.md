@@ -9,6 +9,7 @@ which downloads only the themes you choose.
 | Catppuccin | Catppuccin Mocha: soft pastels on a deep blue-purple base |
 | Catppuccin Latte (light) | Catppuccin Latte: bright pastels on a soft cream base |
 | Daylight (light) | Pure white and charcoal with quiet, minimal artwork |
+| Freyja (light) | Warm cream, dusty rose and honey gold with the goddess of spring |
 | Gruvbox | Gruvbox: warm charcoal, earthy greens and muted amber |
 | Jade | Deep forest green and warm cream with quiet night scenes |
 | Kanagawa | Kanagawa: ink-dark blues and muted gold with Japanese artwork |
@@ -16,6 +17,7 @@ which downloads only the themes you choose.
 | Nord | The popular Nord palette: cool arctic blues and soft snow |
 | One Dark Pro | One Dark Pro: cool charcoal with bright blue and violet accents |
 | Rosé Pine (light) | Rosé Pine Dawn: warm cream, muted rose and soft teal |
+| Skaði (light) | Snow white, steel blue and frost teal with the winter huntress |
 | Stillwater | Near-black and ash grey with quiet, wintry artwork |
 | Wisteria (light) | Soft white and vivid blue with violet flowers and airy skies |
 

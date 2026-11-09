@@ -1,0 +1,13 @@
+Use your image generation tool to create four NEW desktop wallpapers and save them in this folder (/home/erick/Development/personal/eitr-testing/ideas/light-goddesses) as skadi-c.png, skadi-d.png, freyja-c.png and freyja-d.png. Landscape 16:9, the highest resolution the tool supports. Do not write code. Afterwards report each file name and its actual pixel size.
+
+Style: rich, beautiful fantasy illustration, clearly drawn and hand-painted (confident linework, painterly shading and soft light), centred on the goddess as a striking character, with a detailed landscape. Not photorealistic and not a flat cartoon. Original designs only: do not imitate any specific artist or existing artwork. Dignified, heroic and graceful; never sexualised, modest clothing. These are wallpapers for LIGHT desktop themes: overall bright and airy, with the figure placed to the left or right third so the opposite side and the top strip stay calm for windows and a top bar. No text, logos, signatures or watermarks.
+
+Skaði, Norse giantess of winter, mountains, skiing and the hunt. Palette: snow white #F5F8FA, ice #E8EFF3 and #D5E0E7, slate #303D49, steel blue #467B9B, frost teal #628F91 and #3E8191, pine green #4D806F, a touch of berry red #B64D60 and lavender #856CA0.
+Her look: frost-pale skin with flowing blue rune markings on her face, long white hair in thick braids blowing in the wind, a heavy white fur mantle over dark quilted leather, a tall bow and a quiver, carved bone and silver details.
+1. skadi-c.png: Skaði draws her bow on a windswept snowy ridge in a light blizzard, eyes fixed on a distant target, snow peaks and pale sky behind her.
+2. skadi-d.png: Skaði rests in the snow beside a huge, gentle pale-blue spirit wolf with frost markings, her hand on its fur, a frozen valley and soft winter light behind them.
+
+Freyja, Norse goddess of love, beauty, spring and battle. Palette: warm cream #FAF5F0, blush #F1E7DF and #E5D4CA, plum-brown #42343B, dusty rose #A45B72, honey gold #A47A37, sage green #537E61, soft blue #577C9D, mauve #96628D.
+Her look: long flowing golden-red hair, a delicate gold crown with flowers, the Brísingamen necklace glowing gold at her throat, a flowing gown with gold embroidery and a green-gold cloak, great falcon-feather wings.
+3. freyja-c.png: Freyja stands with her falcon wings half open in a sunlit spring meadow full of wildflowers, one hand resting on a tall spear, her two cats (one grey tabby, one white) at her feet, gentle hills and blossoming trees behind her.
+4. freyja-d.png: Freyja sits on a sun-warmed rock above a flowering valley at golden morning, her spear and a round gold-rimmed shield laid beside her, wildflowers and a falcon perched nearby, soft clouds and distant mountains.

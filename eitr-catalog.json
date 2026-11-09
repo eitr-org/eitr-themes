@@ -141,6 +141,58 @@
     ]
   },
   {
+    "id": "freyja",
+    "name": "Freyja",
+    "description": "Warm cream, dusty rose and honey gold with the goddess of spring",
+    "light": true,
+    "folder": "freyja",
+    "size": 17130556,
+    "preview": "freyja/preview.png",
+    "palette": {
+      "background": "#FAF5F0",
+      "foreground": "#42343B",
+      "accent": "#A45B72",
+      "color0": "#F1E7DF",
+      "color1": "#B34F56",
+      "color2": "#537E61",
+      "color3": "#977029",
+      "color4": "#577C9D",
+      "color5": "#96628D",
+      "color6": "#468487",
+      "color7": "#42343B",
+      "color8": "#8C777B",
+      "color9": "#9E464C",
+      "color10": "#496F55",
+      "color11": "#856324",
+      "color12": "#4D6D8A",
+      "color13": "#84567C",
+      "color14": "#3E7477",
+      "color15": "#3A2E34"
+    },
+    "wallpapers": [
+      {
+        "path": "freyja/backgrounds/01-falcon-rest.jpg",
+        "thumbnail": "thumbnails/freyja/01-falcon-rest.jpg",
+        "size": 2826769
+      },
+      {
+        "path": "freyja/backgrounds/02-meadow-cats.jpg",
+        "thumbnail": "thumbnails/freyja/02-meadow-cats.jpg",
+        "size": 2677619
+      },
+      {
+        "path": "freyja/backgrounds/03-cat-chariot.jpg",
+        "thumbnail": "thumbnails/freyja/03-cat-chariot.jpg",
+        "size": 1409981
+      },
+      {
+        "path": "freyja/backgrounds/04-falcon-stream.jpg",
+        "thumbnail": "thumbnails/freyja/04-falcon-stream.jpg",
+        "size": 1504646
+      }
+    ]
+  },
+  {
     "id": "gruvbox",
     "name": "Gruvbox",
     "description": "Gruvbox: warm charcoal, earthy greens and muted amber",
@@ -486,6 +538,58 @@
         "path": "rose-pine/backgrounds/03-rose-courtyard.jpg",
         "thumbnail": "thumbnails/rose-pine/03-rose-courtyard.jpg",
         "size": 2025292
+      }
+    ]
+  },
+  {
+    "id": "skadi",
+    "name": "Skaði",
+    "description": "Snow white, steel blue and frost teal with the winter huntress",
+    "light": true,
+    "folder": "skadi",
+    "size": 13698820,
+    "preview": "skadi/preview.png",
+    "palette": {
+      "background": "#F5F8FA",
+      "foreground": "#303D49",
+      "accent": "#467B9B",
+      "color0": "#E8EFF3",
+      "color1": "#B64D60",
+      "color2": "#4D806F",
+      "color3": "#97752F",
+      "color4": "#467B9B",
+      "color5": "#856CA0",
+      "color6": "#3E8191",
+      "color7": "#303D49",
+      "color8": "#708391",
+      "color9": "#A04454",
+      "color10": "#447162",
+      "color11": "#856729",
+      "color12": "#3E6C88",
+      "color13": "#755F8D",
+      "color14": "#377280",
+      "color15": "#2A3640"
+    },
+    "wallpapers": [
+      {
+        "path": "skadi/backgrounds/01-spirit-wolf.jpg",
+        "thumbnail": "thumbnails/skadi/01-spirit-wolf.jpg",
+        "size": 2451254
+      },
+      {
+        "path": "skadi/backgrounds/02-ridge-hunt.jpg",
+        "thumbnail": "thumbnails/skadi/02-ridge-hunt.jpg",
+        "size": 2021037
+      },
+      {
+        "path": "skadi/backgrounds/03-ski-trail.jpg",
+        "thumbnail": "thumbnails/skadi/03-ski-trail.jpg",
+        "size": 1007328
+      },
+      {
+        "path": "skadi/backgrounds/04-frozen-lake.jpg",
+        "thumbnail": "thumbnails/skadi/04-frozen-lake.jpg",
+        "size": 1211819
       }
     ]
   },
