@@ -16,8 +16,7 @@ JPEG quality is 92 without chroma subsampling, matching Eitr’s exporter.
 Centred framing (0.5, 0.5) retains the subjects; the panorama crop removes only
 a narrow strip at the top and bottom.
 
-`preview.png` is the 01 wallpaper at 1280×720, a temporary artwork preview;
-the owner will replace it with a desktop screenshot later.
+`preview.png` is a 1280×720 Eitr desktop screenshot over the 01 wallpaper.
 
 - `backgrounds/01-falcon-rest.jpg` and `backgrounds-ultrawide/01-falcon-rest.jpg`: Freyja seated above a flowering valley with her falcon, spear and shield. Sources: `freyja-d.png` and `freyja-d-ultrawide.png`.
 - `backgrounds/02-meadow-cats.jpg` and `backgrounds-ultrawide/02-meadow-cats.jpg`: Freyja with half-open falcon wings and two cats in a spring meadow. Sources: `freyja-c.png` and `freyja-c-ultrawide.png`.
