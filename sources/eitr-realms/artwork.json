@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "default_license": "CC-BY-4.0",
+  "entries": [
+    {
+      "pattern": "alfheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "alfheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "alfheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "asgard/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "asgard/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "asgard/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "helheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "helheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "helheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "jotunheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "jotunheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "jotunheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "midgard/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "midgard/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "midgard/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "muspelheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "muspelheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "muspelheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "niflheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "niflheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "niflheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "ragnarok/backgrounds/*.jpg",
+      "origin": "Fenrir: original built-in image generation, sources/eitr-realms/themes/ragnarok/references/graphic-artwork.json (CC-BY-4.0); other wallpapers: Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-08.json; separate panoramic compositions",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "ragnarok/backgrounds-ultrawide/*.jpg",
+      "origin": "Fenrir: original built-in image generation, sources/eitr-realms/themes/ragnarok/references/graphic-artwork.json (CC-BY-4.0); other wallpapers: Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-08.json; separate panoramic compositions",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "ragnarok/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json; independently preserved theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "svartalfheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation with owner-approved dusk fjord style input for Feasting Hall; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json and sources/eitr-realms/themes/artwork-batch-13.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "svartalfheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation with owner-approved dusk fjord style input for Feasting Hall; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json and sources/eitr-realms/themes/artwork-batch-13.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "svartalfheim/preview.png",
+      "origin": "an Eitr desktop screenshot over the theme's own Feasting Hall wallpaper",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "vanaheim/backgrounds/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "vanaheim/backgrounds-ultrawide/*.jpg",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json, sources/eitr-realms/themes/artwork-batch-06.json and sources/eitr-realms/themes/artwork-batch-07.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "vanaheim/preview.png",
+      "origin": "Original built-in image generation from written briefs only; native sources and exact prompts in sources/eitr-realms/themes/artwork-batch-05.json and sources/eitr-realms/themes/artwork-batch-06.json; the first wallpaper is the theme preview",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    },
+    {
+      "pattern": "afterglow/backgrounds/01-emberward-gaze.jpg",
+      "origin": "built-in image generation from a written brief only; prompt in sources/eitr-realms/themes/artwork-batch-04.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared",
+      "note": "Fresh original Norse illustration; no input or reference images."
+    },
+    {
+      "pattern": "afterglow/backgrounds/02-ember-vigil.jpg",
+      "origin": "built-in image generation from a written brief only; prompt in sources/eitr-realms/themes/artwork-batch-04.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared",
+      "note": "Fresh original Norse illustration; no input or reference images."
+    },
+    {
+      "pattern": "afterglow/backgrounds/03-bronze-and-embers.jpg",
+      "origin": "built-in image generation from a written brief only; prompt in sources/eitr-realms/themes/artwork-batch-04.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared",
+      "note": "Fresh original Norse illustration; no input or reference images."
+    },
+    {
+      "pattern": "afterglow/preview.png",
+      "origin": "resized from approved batch 04 artwork; sources/eitr-realms/themes/artwork-batch-04.json",
+      "license": "CC-BY-4.0",
+      "status": "cleared"
+    }
+  ]
+}

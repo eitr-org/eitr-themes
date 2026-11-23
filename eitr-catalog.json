@@ -1,5 +1,146 @@
 [
   {
+    "id": "afterglow",
+    "name": "Afterglow",
+    "description": "Near-black and dusty rose with ember-lit Norse portraits",
+    "light": false,
+    "folder": "afterglow",
+    "size": 8172959,
+    "preview": "afterglow/preview.png",
+    "palette": {
+      "background": "#0c0b0c",
+      "foreground": "#FAFCFB",
+      "accent": "#b59790",
+      "color0": "#0c0b0c",
+      "color1": "#c38b7b",
+      "color2": "#87a9b0",
+      "color3": "#6B5E73",
+      "color4": "#b59790",
+      "color5": "#c4d8e2",
+      "color6": "#a5a0b6",
+      "color7": "#FAFCFB",
+      "color8": "#584e51",
+      "color9": "#c38b7b",
+      "color10": "#87a9b0",
+      "color11": "#6B5E73",
+      "color12": "#b59790",
+      "color13": "#c4d8e2",
+      "color14": "#a5a0b6",
+      "color15": "#e2dddc"
+    },
+    "wallpapers": [
+      {
+        "path": "afterglow/backgrounds/01-emberward-gaze.jpg",
+        "thumbnail": "thumbnails/afterglow/01-emberward-gaze.jpg",
+        "size": 1558892
+      },
+      {
+        "path": "afterglow/backgrounds/02-ember-vigil.jpg",
+        "thumbnail": "thumbnails/afterglow/02-ember-vigil.jpg",
+        "size": 1386803
+      },
+      {
+        "path": "afterglow/backgrounds/03-bronze-and-embers.jpg",
+        "thumbnail": "thumbnails/afterglow/03-bronze-and-embers.jpg",
+        "size": 1408472
+      }
+    ]
+  },
+  {
+    "id": "alfheim",
+    "name": "Alfheim",
+    "description": "Soft lilac and teal in the luminous realm of the elves",
+    "light": false,
+    "folder": "alfheim",
+    "size": 6468203,
+    "preview": "alfheim/preview.png",
+    "palette": {
+      "background": "#191721",
+      "foreground": "#f0eaf6",
+      "accent": "#d5b9f2",
+      "color0": "#252231",
+      "color1": "#e895a7",
+      "color2": "#a9d6b3",
+      "color3": "#e6ce96",
+      "color4": "#a3bdf0",
+      "color5": "#d5b9f2",
+      "color6": "#8eddd3",
+      "color7": "#f0eaf6",
+      "color8": "#ada2ba",
+      "color9": "#eeb0bd",
+      "color10": "#bee0c6",
+      "color11": "#ecdab0",
+      "color12": "#bacef4",
+      "color13": "#e0caf5",
+      "color14": "#aae6de",
+      "color15": "#f4eff8"
+    },
+    "wallpapers": [
+      {
+        "path": "alfheim/backgrounds/01-light-elf.jpg",
+        "thumbnail": "thumbnails/alfheim/01-light-elf.jpg",
+        "size": 973713
+      },
+      {
+        "path": "alfheim/backgrounds/02-winged-elf.jpg",
+        "thumbnail": "thumbnails/alfheim/02-winged-elf.jpg",
+        "size": 1123100
+      },
+      {
+        "path": "alfheim/backgrounds/03-temple-light.jpg",
+        "thumbnail": "thumbnails/alfheim/03-temple-light.jpg",
+        "size": 1315743
+      }
+    ]
+  },
+  {
+    "id": "asgard",
+    "name": "Asgard",
+    "description": "Warm gold and deep blue in the radiant halls of the gods",
+    "light": false,
+    "folder": "asgard",
+    "size": 9469399,
+    "preview": "asgard/preview.png",
+    "palette": {
+      "background": "#141820",
+      "foreground": "#e9edf4",
+      "accent": "#e4b968",
+      "color0": "#1d2330",
+      "color1": "#e67e80",
+      "color2": "#9ccb9b",
+      "color3": "#e4b968",
+      "color4": "#8faed8",
+      "color5": "#c6a1da",
+      "color6": "#85c9d7",
+      "color7": "#e9edf4",
+      "color8": "#98a4b5",
+      "color9": "#ec9ea0",
+      "color10": "#b5d8b4",
+      "color11": "#ebca8e",
+      "color12": "#abc2e2",
+      "color13": "#d4b8e3",
+      "color14": "#a4d6e1",
+      "color15": "#eef2f7"
+    },
+    "wallpapers": [
+      {
+        "path": "asgard/backgrounds/01-radiant-citadel.jpg",
+        "thumbnail": "thumbnails/asgard/01-radiant-citadel.jpg",
+        "size": 2301924
+      },
+      {
+        "path": "asgard/backgrounds/02-bifrost-hall.jpg",
+        "thumbnail": "thumbnails/asgard/02-bifrost-hall.jpg",
+        "size": 679769
+      },
+      {
+        "path": "asgard/backgrounds/03-storm-bridge.jpg",
+        "thumbnail": "thumbnails/asgard/03-storm-bridge.jpg",
+        "size": 1905197
+      }
+    ]
+  },
+  {
     "id": "catppuccin",
     "name": "Catppuccin",
     "description": "Catppuccin Mocha: soft pastels on a deep blue-purple base",
@@ -250,6 +391,53 @@
     ]
   },
   {
+    "id": "helheim",
+    "name": "Helheim",
+    "description": "Cold charcoal and pale green in the shadowed realm of the dead",
+    "light": false,
+    "folder": "helheim",
+    "size": 6601013,
+    "preview": "helheim/preview.png",
+    "palette": {
+      "background": "#15171a",
+      "foreground": "#dfe3dc",
+      "accent": "#a3bd79",
+      "color0": "#212529",
+      "color1": "#cf818b",
+      "color2": "#a3bd79",
+      "color3": "#d0ba82",
+      "color4": "#91a9c5",
+      "color5": "#b193ba",
+      "color6": "#8ebeb6",
+      "color7": "#dfe3dc",
+      "color8": "#9ca8a0",
+      "color9": "#dba0a8",
+      "color10": "#bace9a",
+      "color11": "#dccba1",
+      "color12": "#acbed4",
+      "color13": "#c4aecb",
+      "color14": "#aacec8",
+      "color15": "#e7eae5"
+    },
+    "wallpapers": [
+      {
+        "path": "helheim/backgrounds/01-hel.jpg",
+        "thumbnail": "thumbnails/helheim/01-hel.jpg",
+        "size": 638425
+      },
+      {
+        "path": "helheim/backgrounds/02-soul-gate.jpg",
+        "thumbnail": "thumbnails/helheim/02-soul-gate.jpg",
+        "size": 1333431
+      },
+      {
+        "path": "helheim/backgrounds/03-raven-fortress.jpg",
+        "thumbnail": "thumbnails/helheim/03-raven-fortress.jpg",
+        "size": 1815889
+      }
+    ]
+  },
+  {
     "id": "jade",
     "name": "Jade",
     "description": "Deep forest green and warm cream with quiet night scenes",
@@ -298,6 +486,53 @@
         "path": "jade/backgrounds/04-night-shift.jpg",
         "thumbnail": "thumbnails/jade/04-night-shift.jpg",
         "size": 1262969
+      }
+    ]
+  },
+  {
+    "id": "jotunheim",
+    "name": "Jotunheim",
+    "description": "Icy blue and slate in the mountainous realm of the giants",
+    "light": false,
+    "folder": "jotunheim",
+    "size": 10843995,
+    "preview": "jotunheim/preview.png",
+    "palette": {
+      "background": "#121a24",
+      "foreground": "#e5edf5",
+      "accent": "#78b6cd",
+      "color0": "#1d2937",
+      "color1": "#e48d9c",
+      "color2": "#94c7b6",
+      "color3": "#e1c18d",
+      "color4": "#85aee1",
+      "color5": "#b7a0d9",
+      "color6": "#78c5d2",
+      "color7": "#e5edf5",
+      "color8": "#9bafc1",
+      "color9": "#ebaab5",
+      "color10": "#afd5c8",
+      "color11": "#e8d0aa",
+      "color12": "#a4c2e8",
+      "color13": "#c9b8e2",
+      "color14": "#9ad4dd",
+      "color15": "#ecf2f8"
+    },
+    "wallpapers": [
+      {
+        "path": "jotunheim/backgrounds/01-blizzard-giant.jpg",
+        "thumbnail": "thumbnails/jotunheim/01-blizzard-giant.jpg",
+        "size": 1821719
+      },
+      {
+        "path": "jotunheim/backgrounds/02-carved-mountains.jpg",
+        "thumbnail": "thumbnails/jotunheim/02-carved-mountains.jpg",
+        "size": 2196885
+      },
+      {
+        "path": "jotunheim/backgrounds/03-mountain-spire.jpg",
+        "thumbnail": "thumbnails/jotunheim/03-mountain-spire.jpg",
+        "size": 1955062
       }
     ]
   },
@@ -354,6 +589,48 @@
     ]
   },
   {
+    "id": "midgard",
+    "name": "Midgard",
+    "description": "Slate blue and weathered bronze in the realm of human journeys",
+    "light": false,
+    "folder": "midgard",
+    "size": 8064500,
+    "preview": "midgard/preview.png",
+    "palette": {
+      "background": "#171a1d",
+      "foreground": "#e5e8e8",
+      "accent": "#83a6c7",
+      "color0": "#22282d",
+      "color1": "#da8582",
+      "color2": "#91b69c",
+      "color3": "#d8be85",
+      "color4": "#83a6c7",
+      "color5": "#be9cbf",
+      "color6": "#80bdbe",
+      "color7": "#e5e8e8",
+      "color8": "#9ca7ac",
+      "color9": "#e3a4a1",
+      "color10": "#acc8b5",
+      "color11": "#e2cea4",
+      "color12": "#a2bcd5",
+      "color13": "#ceb5cf",
+      "color14": "#a0cece",
+      "color15": "#eceeee"
+    },
+    "wallpapers": [
+      {
+        "path": "midgard/backgrounds/01-travellers-valley.jpg",
+        "thumbnail": "thumbnails/midgard/01-travellers-valley.jpg",
+        "size": 1861077
+      },
+      {
+        "path": "midgard/backgrounds/02-serpent-coast.jpg",
+        "thumbnail": "thumbnails/midgard/02-serpent-coast.jpg",
+        "size": 2353011
+      }
+    ]
+  },
+  {
     "id": "moss",
     "name": "Moss",
     "description": "Charcoal, olive and copper with candlelit Norse figures",
@@ -397,6 +674,100 @@
         "path": "moss/backgrounds/03-candlelit-relics.jpg",
         "thumbnail": "thumbnails/moss/03-candlelit-relics.jpg",
         "size": 1615305
+      }
+    ]
+  },
+  {
+    "id": "muspelheim",
+    "name": "Muspelheim",
+    "description": "Ember orange and burnt red in the blazing realm of fire",
+    "light": false,
+    "folder": "muspelheim",
+    "size": 10273082,
+    "preview": "muspelheim/preview.png",
+    "palette": {
+      "background": "#1d1314",
+      "foreground": "#f4e6df",
+      "accent": "#f28b59",
+      "color0": "#2b1c1c",
+      "color1": "#f07870",
+      "color2": "#b4c486",
+      "color3": "#e9bd63",
+      "color4": "#91abce",
+      "color5": "#d29bbf",
+      "color6": "#8ec8c2",
+      "color7": "#f4e6df",
+      "color8": "#bda39c",
+      "color9": "#f49a94",
+      "color10": "#c7d3a4",
+      "color11": "#eece8a",
+      "color12": "#acc0da",
+      "color13": "#ddb4cf",
+      "color14": "#aad6d1",
+      "color15": "#f7ece7"
+    },
+    "wallpapers": [
+      {
+        "path": "muspelheim/backgrounds/01-fire-ring.jpg",
+        "thumbnail": "thumbnails/muspelheim/01-fire-ring.jpg",
+        "size": 1032248
+      },
+      {
+        "path": "muspelheim/backgrounds/02-lava-plains.jpg",
+        "thumbnail": "thumbnails/muspelheim/02-lava-plains.jpg",
+        "size": 2078112
+      },
+      {
+        "path": "muspelheim/backgrounds/03-burning-horizon.jpg",
+        "thumbnail": "thumbnails/muspelheim/03-burning-horizon.jpg",
+        "size": 2613259
+      }
+    ]
+  },
+  {
+    "id": "niflheim",
+    "name": "Niflheim",
+    "description": "Frost blue and pale cyan in the frozen realm of mist",
+    "light": false,
+    "folder": "niflheim",
+    "size": 10958040,
+    "preview": "niflheim/preview.png",
+    "palette": {
+      "background": "#101b25",
+      "foreground": "#e7f3f7",
+      "accent": "#91d5e6",
+      "color0": "#1b2a36",
+      "color1": "#de94a5",
+      "color2": "#9acdbd",
+      "color3": "#dbd49f",
+      "color4": "#a6c1f0",
+      "color5": "#c5b0e2",
+      "color6": "#91d5e6",
+      "color7": "#e7f3f7",
+      "color8": "#9fb7c6",
+      "color9": "#e6afbc",
+      "color10": "#b3dace",
+      "color11": "#e4dfb7",
+      "color12": "#bcd0f4",
+      "color13": "#d4c4e9",
+      "color14": "#ace0ec",
+      "color15": "#edf6f9"
+    },
+    "wallpapers": [
+      {
+        "path": "niflheim/backgrounds/01-frost-queen.jpg",
+        "thumbnail": "thumbnails/niflheim/01-frost-queen.jpg",
+        "size": 2156216
+      },
+      {
+        "path": "niflheim/backgrounds/02-frozen-world-tree.jpg",
+        "thumbnail": "thumbnails/niflheim/02-frozen-world-tree.jpg",
+        "size": 1888070
+      },
+      {
+        "path": "niflheim/backgrounds/03-mist-labyrinth.jpg",
+        "thumbnail": "thumbnails/niflheim/03-mist-labyrinth.jpg",
+        "size": 1861034
       }
     ]
   },
@@ -491,6 +862,63 @@
         "path": "one-dark-pro/backgrounds/02-moonlit-keep.jpg",
         "thumbnail": "thumbnails/one-dark-pro/02-moonlit-keep.jpg",
         "size": 1805217
+      }
+    ]
+  },
+  {
+    "id": "ragnarok",
+    "name": "Ragnarök",
+    "description": "Blood red and ember gold beneath a dying world tree",
+    "light": false,
+    "folder": "ragnarok",
+    "size": 10393543,
+    "preview": "ragnarok/preview.png",
+    "palette": {
+      "background": "#120f13",
+      "foreground": "#f2e7e2",
+      "accent": "#c44750",
+      "color0": "#21191e",
+      "color1": "#8f202b",
+      "color2": "#a4bd8d",
+      "color3": "#e7ad67",
+      "color4": "#9ca9d5",
+      "color5": "#c69ac6",
+      "color6": "#8ac8cc",
+      "color7": "#f2e7e2",
+      "color8": "#ac999e",
+      "color9": "#ab5860",
+      "color10": "#bbceaa",
+      "color11": "#edc28d",
+      "color12": "#b5bee0",
+      "color13": "#d4b3d4",
+      "color14": "#a7d6d9",
+      "color15": "#f5ede9"
+    },
+    "wallpapers": [
+      {
+        "path": "ragnarok/backgrounds/01-blood-eclipse.jpg",
+        "thumbnail": "thumbnails/ragnarok/01-blood-eclipse.jpg",
+        "size": 581962
+      },
+      {
+        "path": "ragnarok/backgrounds/02-fenrir-devours-the-sun.jpg",
+        "thumbnail": "thumbnails/ragnarok/02-fenrir-devours-the-sun.jpg",
+        "size": 813976
+      },
+      {
+        "path": "ragnarok/backgrounds/03-dying-yggdrasil.jpg",
+        "thumbnail": "thumbnails/ragnarok/03-dying-yggdrasil.jpg",
+        "size": 927846
+      },
+      {
+        "path": "ragnarok/backgrounds/04-world-tree-pyre.jpg",
+        "thumbnail": "thumbnails/ragnarok/04-world-tree-pyre.jpg",
+        "size": 2152143
+      },
+      {
+        "path": "ragnarok/backgrounds/05-fenrir.jpg",
+        "thumbnail": "thumbnails/ragnarok/05-fenrir.jpg",
+        "size": 1571843
       }
     ]
   },
@@ -642,6 +1070,100 @@
         "path": "stillwater/backgrounds/04-silent-wings.jpg",
         "thumbnail": "thumbnails/stillwater/04-silent-wings.jpg",
         "size": 533515
+      }
+    ]
+  },
+  {
+    "id": "svartalfheim",
+    "name": "Svartalfheim",
+    "description": "Copper and dark stone in the cavern forges of the dwarves",
+    "light": false,
+    "folder": "svartalfheim",
+    "size": 12030205,
+    "preview": "svartalfheim/preview.png",
+    "palette": {
+      "background": "#191715",
+      "foreground": "#ede5db",
+      "accent": "#d49a65",
+      "color0": "#29231f",
+      "color1": "#e17f72",
+      "color2": "#9dbb89",
+      "color3": "#e0bd78",
+      "color4": "#8eadcb",
+      "color5": "#b79ac6",
+      "color6": "#8ab7ad",
+      "color7": "#ede5db",
+      "color8": "#b0a398",
+      "color9": "#e89f95",
+      "color10": "#b6cca6",
+      "color11": "#e8ce9a",
+      "color12": "#aac2d8",
+      "color13": "#c9b3d4",
+      "color14": "#a7c9c2",
+      "color15": "#f2ece4"
+    },
+    "wallpapers": [
+      {
+        "path": "svartalfheim/backgrounds/01-feasting-hall.jpg",
+        "thumbnail": "thumbnails/svartalfheim/01-feasting-hall.jpg",
+        "size": 1668926
+      },
+      {
+        "path": "svartalfheim/backgrounds/02-hammer-warriors.jpg",
+        "thumbnail": "thumbnails/svartalfheim/02-hammer-warriors.jpg",
+        "size": 2596886
+      },
+      {
+        "path": "svartalfheim/backgrounds/03-forge-canyon.jpg",
+        "thumbnail": "thumbnails/svartalfheim/03-forge-canyon.jpg",
+        "size": 2365192
+      }
+    ]
+  },
+  {
+    "id": "vanaheim",
+    "name": "Vanaheim",
+    "description": "Forest green and warm gold in the lush realm of the Vanir",
+    "light": false,
+    "folder": "vanaheim",
+    "size": 12980069,
+    "preview": "vanaheim/preview.png",
+    "palette": {
+      "background": "#101a17",
+      "foreground": "#e3ede2",
+      "accent": "#83b88e",
+      "color0": "#1b2822",
+      "color1": "#df827b",
+      "color2": "#83b88e",
+      "color3": "#d5ad72",
+      "color4": "#83afa8",
+      "color5": "#c6a0c8",
+      "color6": "#8bcbc0",
+      "color7": "#e3ede2",
+      "color8": "#94aa9c",
+      "color9": "#e7a19c",
+      "color10": "#a2caaa",
+      "color11": "#e0c295",
+      "color12": "#a2c3be",
+      "color13": "#d4b8d6",
+      "color14": "#a8d8d0",
+      "color15": "#eaf2e9"
+    },
+    "wallpapers": [
+      {
+        "path": "vanaheim/backgrounds/01-hidden-garden.jpg",
+        "thumbnail": "thumbnails/vanaheim/01-hidden-garden.jpg",
+        "size": 2442518
+      },
+      {
+        "path": "vanaheim/backgrounds/02-ancient-valley.jpg",
+        "thumbnail": "thumbnails/vanaheim/02-ancient-valley.jpg",
+        "size": 2277623
+      },
+      {
+        "path": "vanaheim/backgrounds/03-overgrown-valley.jpg",
+        "thumbnail": "thumbnails/vanaheim/03-overgrown-valley.jpg",
+        "size": 2389691
       }
     ]
   },

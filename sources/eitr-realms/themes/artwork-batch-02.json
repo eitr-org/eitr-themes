@@ -1,0 +1,21 @@
+{
+  "batch": "2026-10-ultrawide-02",
+  "resolution": [
+    3440,
+    1440
+  ],
+  "processing": "Lanczos upscale, minimal centered crop; not native 3440x1440 generation",
+  "direction": "Reference-led character, abstract, graphic, object and still-life artwork; avoid generic city/nature vistas",
+  "images": [
+    {
+      "theme": "afterglow",
+      "name": "01-inner-light",
+      "prompt": "Create ONE new original ultrawide 21:9 desktop wallpaper. The attached contact sheet is ONLY a reference for the theme's visual language, texture, subject category and palette, not an edit target. Do not copy its compositions, characters, logos or writing. Output a single full-bleed artwork, NOT a contact sheet, poster, screenshot or mockup. No lettering, text, signatures, watermarks, logos or border. Avoid city panoramas, mountain landscapes, forests, lakes, sunsets, architecture vistas and generic scenery. Spacious balanced desktop composition. Expressive painterly close-up portrait of an original androgynous young adult, face across right two thirds, freckles, intense pale teal eyes looking slightly upward, one hand resting against cheek, charcoal hair blending into near-black negative space on left. Detailed brush strokes and subtle canvas grain, dramatic soft edge lighting, muted dusty rose #b59790, pale #e2dddc, teal #87a9b0, charcoal #0c0b0c. Psychological intimate portrait, not photorealistic, not a recreation of the attached face.",
+      "reference": "afterglow/references/originals/",
+      "status": "removed",
+      "note": "Replaced by fresh written-brief artwork in batch 04; original prompt retained as history.",
+      "replacement": "01-emberward-gaze"
+    }
+  ],
+  "status": "complete"
+}

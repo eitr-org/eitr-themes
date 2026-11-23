@@ -1,11 +1,22 @@
 # Eitr themes
 
-Official extra themes for [Eitr Linux](https://eitr.info). Built-in themes ship
-with Eitr itself; the themes here are installed one by one from Eitr's catalog,
+Official extra themes for [Eitr Linux](https://eitr.info). Eitr and Eitr Light ship
+with the desktop; the themes here are installed one by one from Eitr's catalog,
 which downloads only the themes you choose.
 
 | Theme | Description |
 |---|---|
+| Afterglow | Near-black and dusty rose with ember-lit Norse portraits |
+| Alfheim | Soft lilac and teal in the luminous realm of the elves |
+| Asgard | Warm gold and deep blue in the radiant halls of the gods |
+| Helheim | Cold charcoal and pale green in the shadowed realm of the dead |
+| Jotunheim | Icy blue and slate in the mountainous realm of the giants |
+| Midgard | Slate blue and weathered bronze in the realm of human journeys |
+| Muspelheim | Ember orange and burnt red in the blazing realm of fire |
+| Niflheim | Frost blue and pale cyan in the frozen realm of mist |
+| Ragnarök | Blood red and ember gold beneath a dying world tree |
+| Svartalfheim | Copper and dark stone in the cavern forges of the dwarves |
+| Vanaheim | Forest green and warm gold in the lush realm of the Vanir |
 | Catppuccin | Catppuccin Mocha: soft pastels on a deep blue-purple base |
 | Catppuccin Latte (light) | Catppuccin Latte: bright pastels on a soft cream base |
 | Daylight (light) | Pure white and charcoal with quiet, minimal artwork |
@@ -40,3 +51,5 @@ Palettes named after their projects (Catppuccin, Gruvbox, Kanagawa, Nord,
 One Dark Pro, Rosé Pine) follow those projects' published colours; all of them
 are MIT licensed. Wallpaper provenance is in each theme's `artwork.md`.
 Everything else is GPL-3.0, like Eitr.
+
+See [Afterglow and realm artwork](sources/eitr-realms/README.md) for the migrated native masters and export recipes.
