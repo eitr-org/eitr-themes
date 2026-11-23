@@ -5,7 +5,7 @@
     "description": "Catppuccin Mocha: soft pastels on a deep blue-purple base",
     "light": false,
     "folder": "catppuccin",
-    "size": 5968479,
+    "size": 6522380,
     "preview": "catppuccin/preview.png",
     "palette": {
       "background": "#1e1e2e",
@@ -47,7 +47,7 @@
     "description": "Catppuccin Latte: bright pastels on a soft cream base",
     "light": true,
     "folder": "catppuccin-latte",
-    "size": 12849505,
+    "size": 13308180,
     "preview": "catppuccin-latte/preview.png",
     "palette": {
       "background": "#eff1f5",
@@ -99,7 +99,7 @@
     "description": "Pure white and charcoal with quiet, minimal artwork",
     "light": true,
     "folder": "daylight",
-    "size": 4748837,
+    "size": 5199131,
     "preview": "daylight/preview.png",
     "palette": {
       "background": "#ffffff",
@@ -146,7 +146,7 @@
     "description": "Warm cream, dusty rose and honey gold with the goddess of spring",
     "light": true,
     "folder": "freyja",
-    "size": 16564142,
+    "size": 16890747,
     "preview": "freyja/preview.png",
     "palette": {
       "background": "#FAF5F0",
@@ -198,7 +198,7 @@
     "description": "Gruvbox: warm charcoal, earthy greens and muted amber",
     "light": false,
     "folder": "gruvbox",
-    "size": 17860417,
+    "size": 18613848,
     "preview": "gruvbox/preview.png",
     "palette": {
       "background": "#282828",
@@ -255,7 +255,7 @@
     "description": "Deep forest green and warm cream with quiet night scenes",
     "light": false,
     "folder": "jade",
-    "size": 9896066,
+    "size": 10284104,
     "preview": "jade/preview.png",
     "palette": {
       "background": "#111c18",
@@ -307,7 +307,7 @@
     "description": "Kanagawa: ink-dark blues and muted gold with Japanese artwork",
     "light": false,
     "folder": "kanagawa",
-    "size": 15247578,
+    "size": 16113366,
     "preview": "kanagawa/preview.png",
     "palette": {
       "background": "#1f1f28",
@@ -359,7 +359,7 @@
     "description": "Charcoal, olive and copper with candlelit Norse figures",
     "light": false,
     "folder": "moss",
-    "size": 8308983,
+    "size": 8868653,
     "preview": "moss/preview.png",
     "palette": {
       "background": "#222222",
@@ -406,7 +406,7 @@
     "description": "The popular Nord palette: cool arctic blues and soft snow",
     "light": false,
     "folder": "nord",
-    "size": 11508046,
+    "size": 12317146,
     "preview": "nord/preview.png",
     "palette": {
       "background": "#2e3440",
@@ -458,7 +458,7 @@
     "description": "One Dark Pro: cool charcoal with bright blue and violet accents",
     "light": false,
     "folder": "one-dark-pro",
-    "size": 4901123,
+    "size": 4937562,
     "preview": "one-dark-pro/preview.png",
     "palette": {
       "background": "#282c34",
@@ -500,7 +500,7 @@
     "description": "Rosé Pine Dawn: warm cream, muted rose and soft teal",
     "light": true,
     "folder": "rose-pine",
-    "size": 7937867,
+    "size": 8125195,
     "preview": "rose-pine/preview.png",
     "palette": {
       "background": "#faf4ed",
@@ -547,7 +547,7 @@
     "description": "Snow white, steel blue and frost teal with the winter huntress",
     "light": true,
     "folder": "skadi",
-    "size": 13179208,
+    "size": 13487855,
     "preview": "skadi/preview.png",
     "palette": {
       "background": "#F5F8FA",
@@ -599,7 +599,7 @@
     "description": "Near-black and ash grey with quiet, wintry artwork",
     "light": false,
     "folder": "stillwater",
-    "size": 7584672,
+    "size": 7941732,
     "preview": "stillwater/preview.png",
     "palette": {
       "background": "#101315",
@@ -651,7 +651,7 @@
     "description": "Soft white and vivid blue with violet flowers and airy skies",
     "light": true,
     "folder": "wisteria",
-    "size": 8309420,
+    "size": 8240028,
     "preview": "wisteria/preview.png",
     "palette": {
       "background": "#fafafa",

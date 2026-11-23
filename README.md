@@ -29,7 +29,9 @@ format is documented in Eitr's
 Eitr refuses packages containing code, links or executable files, and generates
 editor and application colors locally. `eitr-catalog.json` is the index the
 catalog reads; regenerate and check it with Eitr's
-`tools/theme-catalog-index.py` after changing a theme. `sources/` holds artwork
+`tools/theme-catalog-index.py` after changing a theme. Generate the wallpaper
+and palette previews first with `python3 tools/theme-previews.py /path/to/eitr-themes`
+from the Eitr checkout. Both tools support `--check`. `sources/` holds artwork
 source material and is not part of any package.
 
 ## Credits

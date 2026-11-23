@@ -18,7 +18,7 @@ JPEG quality is 92 without chroma subsampling, matching Eitr’s exporter.
 Centred framing (0.5, 0.5) retains the subjects; the panorama crop removes only
 a narrow strip at the top and bottom.
 
-`preview.png` is a 1280×720 Eitr desktop screenshot over the 01 wallpaper.
+`preview.png` shows the default wallpaper above the theme palette at 1280×720.
 
 - `backgrounds/01-spirit-wolf.jpg` and `backgrounds-ultrawide/01-spirit-wolf.jpg`: Skaði resting beside a pale-blue spirit wolf above a frozen valley. Sources: `skadi-d.png` and `skadi-d-ultrawide.png`.
 - `backgrounds/02-ridge-hunt.jpg` and `backgrounds-ultrawide/02-ridge-hunt.jpg`: Skaði drawing her bow on a snowy mountain ridge. Sources: `skadi-c.png` and `skadi-c-ultrawide.png`.
